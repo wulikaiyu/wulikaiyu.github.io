@@ -2,8 +2,8 @@
 layout: post
 title:  第一个博客
 date:   2018-12-07 20:11:00 +0800
-categories: document
-tag: 教程
+categories: Blog
+tag: MyBlog
 ---
 
 * content

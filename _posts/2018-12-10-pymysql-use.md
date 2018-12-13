@@ -2,8 +2,8 @@
 layout: post
 title:  pymysql使用总结 
 date:   2018-12-10 17:11:00 +0800
-categories: document 
-tag: 教程
+categories: 教程
+tag: python
 ---
 
 * content

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  更换评论系统之从多说到云跟帖
+title:  jekyll模板之更换评论系统之从多说到云跟帖
 date:   2017-06-08 00:00:00 +0800
-categories: document
-tag: 教程
+categories: 教程
+tag: jekyll
 ---
 
 * content

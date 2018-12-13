@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to Myblog!"
 date:   2018-12-7 13:31:01 +0800
-categories: MyBlog
-tag: Myblog
+categories: Blog
+tag: MyBlog
 ---
 
 
